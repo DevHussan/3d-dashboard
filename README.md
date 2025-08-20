@@ -1,8 +1,4 @@
-## Minimal UI ([Free version](https://free.minimals.cc/))
-
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-
-![preview](public/assets/images/minimal-free-preview.jpg)
+## Minimal UI 
 
 > Free React Admin Dashboard made with Material-UI components and React + Vite.js.
 
